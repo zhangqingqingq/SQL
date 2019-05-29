@@ -1,4 +1,5 @@
 # SQL
+本文章主要介绍自己在学习数据库的过程中对INNER JOIN和LEFT JOIN 以及RIGHT JOIN的理解
 
 ```sql
 select s.last_name,s.first_name,d.dept_no
